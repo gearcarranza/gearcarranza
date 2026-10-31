@@ -17,7 +17,7 @@ My professional focus is building, maintaining and improving reliable infrastruc
 
 I work primarily with Red Hat Enterprise Linux and Linux-based infrastructure, with a strong interest in understanding systems from the kernel and operating system level to application services.
 
-Engineering mindset:
+Engineering mindset
 
 - Understand before changing.
 - Measure before optimizing.
@@ -29,14 +29,14 @@ Engineering mindset:
 
 "$ uname -a"
 
-OPERATING SYSTEMS
+Operating Systems
 
 - Red Hat Enterprise Linux (RHEL)
 - Rocky Linux / AlmaLinux
 - CentOS
 - Debian / Ubuntu
 
-SYSTEM ADMINISTRATION
+System Administration
 
 - Linux system administration
 - Systemd and service management
@@ -46,7 +46,7 @@ SYSTEM ADMINISTRATION
 - Patch management and vulnerability remediation
 - High Availability fundamentals
 
-AUTOMATION & INFRASTRUCTURE AS CODE
+Automation & Infrastructure as Code
 
 - Ansible
 - Bash / Shell scripting
@@ -54,7 +54,7 @@ AUTOMATION & INFRASTRUCTURE AS CODE
 - Terraform
 - Infrastructure automation
 
-OBSERVABILITY & MONITORING
+Observability & Monitoring
 
 - Zabbix
 - Grafana
@@ -63,7 +63,7 @@ OBSERVABILITY & MONITORING
 - Elasticsearch
 - Linux logging and event analysis
 
-SECURITY & SOC
+Security & SOC
 
 - Wazuh
 - TheHive
@@ -74,7 +74,7 @@ SECURITY & SOC
 - PCI DSS
 - ITIL v4
 
-DATABASES & INFRASTRUCTURE SERVICES
+Databases & Infrastructure Services
 
 - MariaDB / MySQL
 - Cassandra
@@ -87,7 +87,7 @@ DATABASES & INFRASTRUCTURE SERVICES
 
 "$ systemctl status professional-focus"
 
-CURRENT ENGINEERING INTERESTS
+Current Engineering Interests
 
 Domain| Technical Focus
 Linux Performance| CPU, Memory, I/O, Network
@@ -105,7 +105,7 @@ Linux Internals| Kernel, Processes, Scheduling
 
 I use practical labs and technical documentation to explore Linux infrastructure, system reliability and automation.
 
-Areas of development:
+Areas of Development
 
 - Linux performance analysis and troubleshooting.
 - Enterprise Linux administration.
